@@ -5,3 +5,5 @@ console.log("Hello, " + name + "!");
 const PI = 3.14;
 console.log(PI);
 // this is my third line of code in JS, trying to get a JOB in MANGOS 🥭
+
+console.log ("Printing out my name , Wazingwa Lol");
